@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Manthan Shah](http://manthansshah.com/), a passionate DevOps Engineer based out of Greater Toronto Area, Canada. My passion for cloud lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the cloud architecture, and code quality along with code reusability of the things I build.
+Hi, I'm [Manthan Shah](http://manthansshah.com/), a passionate DevOps Engineer based out of Greater Toronto Area, Canada. My passion for automation lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the cloud architecture, and code quality along with code reusability of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
