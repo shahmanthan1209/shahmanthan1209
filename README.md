@@ -1,18 +1,15 @@
-# README.md
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2> Hi, I'm Manthan Shah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p><em>DevOps Engineer at <a href="https://gale.agency">GALE Partners LP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<a href="https://twitter.com/shahmanthan1209">
-  <img align="left" alt="Manthan Shah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/manthan-shah/">
-  <img align="left" alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
+[![Twitter: shahmanthan1209](https://img.shields.io/twitter/follow/shahmanthan1209?style=social)](https://twitter.com/shahmanthan1209)
+[![Linkedin: manthan-shah](https://img.shields.io/badge/manthan-shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-shah/)](https://www.linkedin.com/in/manthan-shah/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://manthansshah.com/)](http://manthansshah.com/)
+[![GitHub shahmanthan1209](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/shahmanthan1209)
 ![](https://visitor-badge.glitch.me/badge?page_id=shahmanthan1209.shahmanthan1209)
 
-<br />
-
-Hi, I'm [Manthan Shah](http://manthansshah.com/), a passionate DevOps Engineer based out of Greater Toronto Area, Canada. My passion for automation lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the cloud architecture, and code quality along with code reusability of the things I build.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+I'm based out of Greater Toronto Area, Canada. My passion for automation lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the cloud architecture, and code quality along with code reusability of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -45,9 +42,14 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 📈 **My GitHub Stats:**
-<html>
+<html><table cellpadding="0" cellspacing="0" border="0">
   <tr>
       <td><img align="left" alt="Manthan Shah's Github Stats" src="https://github-readme-stats-1.shahmanthan1209.vercel.app//api?username=shahmanthan1209&show_icons=true&hide_border=true&theme=cobalt" /></td>
-      <td><img align="right" alt="Top Languages" src="https://github-readme-stats-1.shahmanthan1209.vercel.app/api/top-langs/?username=shahmanthan1209&layout=compact"(https://github.com/shahmanthan1209/github-readme-stats)></td>
-  </tr>
+      <td><img align="left" alt="Top Languages" src="https://github-readme-stats-1.shahmanthan1209.vercel.app/api/top-langs/?username=shahmanthan1209&layout=compact&theme=cobalt"(https://github.com/shahmanthan1209/github-readme-stats) /></td>
+  </tr></table>
 </html>
+
+<html>
+<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p></html>
+
+---
