@@ -4,7 +4,6 @@
 
 [![Twitter: shahmanthan1209](https://img.shields.io/twitter/follow/shahmanthan1209?style=social)](https://twitter.com/shahmanthan1209)
 [![Linkedin: manthan-shah](https://img.shields.io/badge/manthan-shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-shah/)](https://www.linkedin.com/in/manthan-shah/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://manthansshah.com/)](http://manthansshah.com/)
 [![GitHub shahmanthan1209](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/shahmanthan1209)
 ![](https://visitor-badge.glitch.me/badge?page_id=shahmanthan1209.shahmanthan1209)
 
