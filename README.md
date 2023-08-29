@@ -1,5 +1,5 @@
 <h2> Hi, I'm Manthan Shah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<p><em>DevOps Engineer at <a href="https://gale.agency">GALE Partners LP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior DevOps Engineer at <a href="https://gale.agency">GALE Partners LP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: shahmanthan1209](https://img.shields.io/twitter/follow/shahmanthan1209?style=social)](https://twitter.com/shahmanthan1209)
